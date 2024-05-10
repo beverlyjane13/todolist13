@@ -66,7 +66,7 @@ const App = () => {
         keyExtractor={(item, index) => index.toString()}
       />
       <Text style={styles.text}>
-        "Beverly Jane L. Javier, 20211364, IT35C-IT83, App Dev & emerg. tech., BSIT, 2023-24"
+        "Beverly Jane L. Javier, 20211364, IT35C-IT83, App Dev & emerg. tech., BSIT, 2023-2024"
       </Text>
     </View>
   );
